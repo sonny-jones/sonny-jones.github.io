@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Sonny Jones Website"
+title: "Hello, my name is Sonny! 🐣"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<link rel="stylesheet" type="text/css" href="style.css">
-<h1 align = "left"> Hello, my name is Sonny! 🐣 </h1>
 
 ### About Me 📰
 
@@ -27,38 +24,38 @@ Let's innovate together! #ML #AI # RL#DataScience
   </ul>
 </p>
 
-#### Programming Skills  
+### Programming Skills  
 Proficient: Python | MATLAB  
 Familiar: C/C++ | LabView | Java | SQL | R
 
-#### Tools and Software  
+### Tools and Software  
 Visual Studio Code | Jupyter | QtCreator | PyCharm | Git | Anaconda | LaTeX
 
 ---
 
 ### Education 📖
-#### Biomedical Engineering, PhD @ University of Utah (In-Progress)  
-#### Biomedical Engineering, MS @ University of Utah (In-Progress)   
-#### Biomedical Engineering, BS @ University of Utah  
+### Biomedical Engineering, PhD @ University of Utah (In-Progress)  
+### Biomedical Engineering, MS @ University of Utah (In-Progress)   
+### Biomedical Engineering, BS @ University of Utah  
 
 ---
 
 ### Certification 📃
-#### Graduate Certificate in Deep Learning (University of Utah)  
+### Graduate Certificate in Deep Learning (University of Utah)  
 [[Certification Homepage](https://www.cs.utah.edu/graduate/academic-programs/certificate-programs/graduate-certificate-in-deep-learning/)]  
-#### Reinforcement Learning Specialization (University of Alberta & Alberta Machine Intelligence Institute)  
+### Reinforcement Learning Specialization (University of Alberta & Alberta Machine Intelligence Institute)  
 [[Specialization Homepage](https://www.coursera.org/specializations/reinforcement-learning)][[View Certificate](https://www.coursera.org/verify/specialization/CWUW9VCJAC87)]  
-#### Data Science Professional (DataCamp)  
+### Data Science Professional (DataCamp)  
 [[Course Homepage](https://www.datacamp.com/tracks/data-scientist-professional-with-python)][[View Certificate](https://www.datacamp.com/certificate/DS0020609141286)]  
-#### Machine Learning Scientist (DataCamp)  
+### Machine Learning Scientist (DataCamp)  
 [[Course Homepage](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)][[View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/8b3cc836625f4ce083af49e5f01d0038ee2aeee7)]  
 
 ---
   
 ### Research Experience 🥼
-#### Graduate Research Assistant @ [NERVES Lab](https://nerves.bme.utah.edu/)  
-#### Research Assistant @ [NeuroRobotics Lab](https://neurorobotics.ece.utah.edu/)
-#### Research Analyst/Assistant @ [TORCH](https://medicine.utah.edu/internal-medicine/epidemiology/research-programs/torch) 
-#### Undergraduate Research Assistant @ [Center for Neural Interfaces](https://cni.bme.utah.edu/)
+### Graduate Research Assistant @ [NERVES Lab](https://nerves.bme.utah.edu/)  
+### Research Assistant @ [NeuroRobotics Lab](https://neurorobotics.ece.utah.edu/)
+### Research Analyst/Assistant @ [TORCH](https://medicine.utah.edu/internal-medicine/epidemiology/research-programs/torch) 
+### Undergraduate Research Assistant @ [Center for Neural Interfaces](https://cni.bme.utah.edu/)
 
 ---
