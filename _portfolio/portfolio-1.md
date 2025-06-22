@@ -1,6 +1,7 @@
 ---
-title: "[[Fine-Tuning Faster R-CNN for Guardrail Damage Detection](https://github.com/sonnyjones123/BlyncsySFT)]"
-excerpt: "<p>
+title: "Fine-Tuning Faster R-CNN for Guardrail Damage Detection"
+excerpt: "
+<p>
   <ul>
     <li>Researched and implemented advanced fine‑tuning strategies on a Faster R‑CNN to detect guardrail damage, improving detection accuracy by 5% and decreasing false positives by 92% for <a href="https://www.blyncsy.com/">Blyncsy, Inc.</a> </li>
     <li>Designed a saliency‑scoring pipeline leveraging pre‑trained networks to automatically verify ground truth labels in the training and testing sets, automatically finding errors in roughly 10% of images. </li>
