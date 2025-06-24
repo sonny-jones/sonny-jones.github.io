@@ -3,7 +3,7 @@ title: "Overcoming Failure: Improving Acceptance and Success of Implanted Neural
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-14-failure-neural-interfaces
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Overview of the challenges of designing neural interfaces and failure modes of implanted systems'
 date: 2025-03-14
 venue: 'Bioelectronic Medicine, Special Issue for Neural Interfaces'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
