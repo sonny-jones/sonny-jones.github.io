@@ -9,56 +9,75 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[[View My Full CV](https://sonny-jones.github.io/Curriculum-Vitae/CV_JonesSonny.pdf)]
+
+Education 📖
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biomedical Engineering @ University of Utah, 2028 (expected)
+* M.S. in Biomedical Engineering @ University of Utah, 2027 (expected)
+* B.S. in in Biomedical Engineering @ University of Utah, 2021
 
-Work experience
+Experience 🥼
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant @ [NERVES Lab](https://nerves.bme.utah.edu/) 
+  * Department of Biomedical Engineering, University of Utah, Salt Lake City, UT, USA
+  * Supervisor: Ashley Dalrymple
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant @ [NeuroRobotics Lab](https://neurorobotics.ece.utah.edu/)
+  * Department of Electrical and Computer Engineering, University of Utah, Salt Lake City, UT, USA
+  * Supervisor: Jacob George
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Analyst/Assistant @ [TORCH](https://medicine.utah.edu/internal-medicine/epidemiology/research-programs/torch) 
+  * Division of Epidemiology, Department of Medicine, School of Medicine, University of Utah, Salt Lake City, UT, USA
+  * Supervisor: Mary Jo Pugh
+
+* Undergraduate Research Assistant @ [Center for Neural Interfaces](https://cni.bme.utah.edu/)
+  * Department of Biomedical Engineering, University of Utah, Salt Lake City, UT, USA
+  * Mentor: Gregory Clark
+
+Certification 📃
+======
+* Graduate Certificate in Deep Learning (University of Utah)  
+[[Certification Homepage](https://www.cs.utah.edu/graduate/academic-programs/certificate-programs/graduate-certificate-in-deep-learning/)]  
+* Reinforcement Learning Specialization (University of Alberta & Alberta Machine Intelligence Institute)  
+[[Specialization Homepage](https://www.coursera.org/specializations/reinforcement-learning)][[View Certificate](https://www.coursera.org/verify/specialization/CWUW9VCJAC87)]  
+* Data Science Professional (DataCamp)  
+[[Course Homepage](https://www.datacamp.com/tracks/data-scientist-professional-with-python)][[View Certificate](https://www.datacamp.com/certificate/DS0020609141286)]  
+* Machine Learning Scientist (DataCamp)  
+[[Course Homepage](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)][[View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/8b3cc836625f4ce083af49e5f01d0038ee2aeee7)]  
   
-Skills
+Programming Skills 💻
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient : Python, MATLAB
+* Familiar : C/C++, LabView, Java, SQL, R
 
-Publications
+Tools and Software ⚙️
+======
+* Visual Studio Code
+* Jupyter
+* QtCreator
+* PyCharm
+* Git
+* Anaconda
+* LaTeX
+
+Publications 📃
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks 🔈
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Service and Volunteerism 🫙
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Chair, Curriculum Committee, 2025 - Present
+  * Biomedical Engineering Graduate Student Advisory Committee (GSAC), University of Utah, Salt Lake City, Utah, USA
+* Judge Advisor Assistant, 2025
+  * Utah Regional First Robotics Competition, Salt Lake City, Utah, USA
+* Software Mentor, 2023-2024
+  * First Robotics Competition, Red Rock Robotics, West High School, Salt Lake City, Utah, USA
