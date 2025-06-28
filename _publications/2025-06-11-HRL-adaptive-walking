@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical Reinforcement Learning Framework for Adaptive Walking Control Using General Value Functions of Lower-Limb Sensor Signals"
 collection: publications
-category: conferences
+category: abstracts
 permalink: /publication/2025-06-11-HRL-adaptive-walking
 excerpt: 'Using learned preditions of future signal behavior to classify walking terrains.'
 date: 2025-06-11
