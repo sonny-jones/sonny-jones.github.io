@@ -38,7 +38,7 @@ Experience 🥼
 Certification 📃
 ======
 * Graduate Certificate in Deep Learning (University of Utah)  
-[[Certification Homepage](https://www.cs.utah.edu/graduate/academic-programs/certificate-programs/graduate-certificate-in-deep-learning/)]  
+[[Certification Homepage](https://www.cs.utah.edu/graduate/academic-programs/certificate-programs/graduate-certificate-in-deep-learning/)][[View Certificate](https://drive.google.com/file/d/1tV5oAy3wbdd62RkL9khSb2kCkPOG38k4/view?usp=sharing)]    
 * Reinforcement Learning Specialization (University of Alberta & Alberta Machine Intelligence Institute)  
 [[Specialization Homepage](https://www.coursera.org/specializations/reinforcement-learning)][[View Certificate](https://www.coursera.org/verify/specialization/CWUW9VCJAC87)]  
 * Data Science Professional (DataCamp)  
