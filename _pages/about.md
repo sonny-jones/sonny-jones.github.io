@@ -9,17 +9,17 @@ redirect_from:
 
 ### About Me 📰
 
-As a passionate data-driven researcher, I thrive on collaboration and innovation, particularly in leveraging machine learning to revolutionize healthcare. I contribute to cutting-edge projects at the NERVES Lab and the Utah NeuroRobotics Lab at the University of Utah. My work included designing wireless sEMG chips, programs to process body-worn sensor signals automatically, and developing cognitive workload measurements for complex machine learning systems for neuroprosthesis. 
+My research interests lie in artificial intelligence, machine learning, and their applications in medicine and rehabilitation robotics. I am particularly focused on reinforcement learning and continual learning—specifically, how we can build machines that learn and adapt to their environment over time.
 
-I am working to create advanced learning systems that use state-of-the-art reinforcement learning algorithms to control exoskeletons for post-stroke assistance while walking on and between different terrains. I seek opportunities to develop my data science, artificial intelligence, and machine learning expertise and drive impactful research through collaborative endeavors.
+Currently, I work at the intersection of human-centered robotics and AI, developing adaptive control systems for exoskeletons to assist post-stroke individuals in navigating complex and changing terrains. My previous work includes designing wireless sEMG systems, building automated pipelines for processing wearable sensor data, and creating cognitive workload assessment tools for advanced neuroprosthetic systems.
 
+I’m passionate about advancing intelligent systems that improve human health and mobility, and I’m always open to collaborative opportunities in AI, robotics, and biomedical innovation.
 Let's innovate together! #ML #AI # RL#DataScience
 
 <p>
   <ul>
     <li>I'm currently pursuing my Ph.D in Biomedical Engineering with an emphasis in Data Science and Computation 💻 </li>
     <li>I'm currently a Graduate Research Assistant for the NERVES Lab, University of Utah 🧠 </li>
-    <li>Appropriate coursework: Data Science for Biomedical Engineers, Reinforcement Learning Specialization, Machine Learning, Artificial Intelligence, Deep Learning, NeuroRobotics </li>
-    <li>Interested in Machine Learning, Reinforcement Learning, Deep Learning, and AI 🦾 </li>
+    <li>Interested in Machine Learning, Reinforcement Learning, and AI 🦾 </li>
   </ul>
 </p>
