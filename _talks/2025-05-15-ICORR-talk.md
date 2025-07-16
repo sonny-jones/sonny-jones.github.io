@@ -7,3 +7,5 @@ venue: "IEEE International Concortium on Rehabilitation Robotics (ICORR)"
 date: 2025-05-15
 location: "Chicago, IL, USA"
 ---
+
+<img src='/images/Sonny_ICORR2025.jpg' style="width: 900px; height: auto;">
