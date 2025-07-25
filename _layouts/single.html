@@ -39,6 +39,8 @@ layout: default
         {% elsif page.venue and page.date %}
           {% if page.status == 'preprint' %}
             <p>Preprint in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif post.status == 'nonarchive' %}
+            <p>Accepted to <i>{{ page.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>  
           {% else %}
             <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% endif %}
