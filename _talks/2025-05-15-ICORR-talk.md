@@ -3,7 +3,7 @@ title: "Comparative Analysis of Temporal-Difference Learning Methods to Learn Ge
 collection: talks
 type: "Talk"
 permalink: /talks/2025-05-15-ICORR-talk
-venue: "IEEE International Concortium on Rehabilitation Robotics (ICORR)"
+venue: "IEEE International Consortium on Rehabilitation Robotics (ICORR)"
 date: 2025-05-15
 location: "Chicago, IL, USA"
 ---
