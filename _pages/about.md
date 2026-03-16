@@ -11,18 +11,16 @@ redirect_from:
 
 ### About Me 📰
 
-My research interests lie in artificial intelligence, machine learning, and their applications in medicine and rehabilitation robotics. I am particularly focused on reinforcement learning and continual learning—specifically, how we can build machines that learn and adapt to their environment over time.
+I am a PhD researcher at the University of Utah, studying reinforcement learning and continual learning to develop adaptive rehabilitation technologies.
 
-Currently, I work at the intersection of human-centered robotics and AI, developing adaptive control systems for exoskeletons to assist post-stroke individuals in navigating complex and changing terrains. My previous work includes designing wireless sEMG systems, building automated pipelines for processing wearable sensor data, and creating cognitive workload assessment tools for advanced neuroprosthetic systems.
+My research focuses on how learning agents can build predictive representations of their environment and continually adapt their behavior in real-world rehabilitation settings. In particular, I study reinforcement learning architectures that leverage predictive representations of state from General Value Functions (GVFs) to support adaptive control and decision-making in dynamic environments.
 
-I’m passionate about advancing intelligent systems that improve human health and mobility, and I’m always open to collaborative opportunities in AI, robotics, and biomedical innovation.
+I currently apply these ideas to rehabilitation technologies, such as assistive robotics for post-stroke ambulation. These systems must continually adapt to changing users and environments, and learn from multimodal sensor data including EMG signals, joint kinematics, and underfoot pressure. 
 
-Let's innovate together!
+More broadly, I am interested in research at the intersection of:
+- Reinforcement Learning
+- Continual Learning
+- Predictive Representations (e.g., GVFs)
+- Assistive Robotics
 
-<p>
-  <ul>
-    <li>I'm currently pursuing my Ph.D in Biomedical Engineering with an emphasis in Data Science and Computation 💻 </li>
-    <li>I'm currently a Graduate Research Assistant for the NERVES Lab, University of Utah 🧠 </li>
-    <li>Interested in Machine Learning, Reinforcement Learning, and AI 🦾 </li>
-  </ul>
-</p>
+My goal is to develop reinforcement learning systems that can operate in the real world, that continually learn from experience, enabling adaptive human-machine partnerships that improve over time.
