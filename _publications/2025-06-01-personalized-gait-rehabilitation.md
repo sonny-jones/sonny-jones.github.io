@@ -3,7 +3,7 @@ title: "Personalized Gait Rehabilitation with Spinal Cord Stimulation and Machin
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-personalized-gait-rehabilitation
-excerpt: 'Review of spinal cord stimuation and machine learning techinques to facilitate personalized gait rehabilitation.'
+excerpt: 'Review of spinal cord stimuation and machine learning techniques to facilitate personalized gait rehabilitation.'
 date: 2025-06-25
 venue: 'Current Opinions in Biomedical Engineering: Bioelectronic Medicine'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'

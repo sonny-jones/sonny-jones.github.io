@@ -45,21 +45,6 @@ Certification 📃
 [[Course Homepage](https://www.datacamp.com/tracks/data-scientist-professional-with-python)][[View Certificate](https://www.datacamp.com/certificate/DS0020609141286)]  
 * Machine Learning Scientist (DataCamp)  
 [[Course Homepage](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)][[View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/8b3cc836625f4ce083af49e5f01d0038ee2aeee7)]  
-  
-Programming Skills 💻
-======
-* Proficient : Python, MATLAB
-* Familiar : C/C++, LabView, Java, SQL, R
-
-Tools and Software ⚙️
-======
-* Visual Studio Code
-* Jupyter
-* QtCreator
-* PyCharm
-* Git
-* Anaconda
-* LaTeX
 
 Publications 📃
 ======

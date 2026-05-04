@@ -3,7 +3,7 @@ title: "A Novel Template-Matching Method for Extracting Gait Cycles from Underfo
 collection: publications
 category: conferences
 permalink: /publication/2025-05-11-template-matching-gait
-excerpt: 'Extracting gait cycles using a template-meatching method.'
+excerpt: 'Extracting gait cycles using a template-matching method.'
 date: 2025-05-11
 venue: 'IEEE International Consortium for Rehabilitation Robotics (ICORR)'
 paperurl: 'https://ieeexplore.ieee.org/document/11063134'
